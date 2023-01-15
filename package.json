@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samarmohan/react-text-loop-next.git"
+    "url": "git+https://github.com/brajabi/react-text-loop-next2"
   },
   "files": [
     "dist"
@@ -53,9 +53,9 @@
   "author": "Samar Mohan <samar.mohan@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/samarmohan/react-text-loop-next/issues"
+    "url": "https://github.com/brajabi/react-text-loop-next2/issues"
   },
-  "homepage": "https://github.com/samarmohan/react-text-loop-next#readme",
+  "homepage": "https://github.com/brajabi/react-text-loop-next2#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
